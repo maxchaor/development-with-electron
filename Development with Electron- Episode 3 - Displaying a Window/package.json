@@ -1,0 +1,14 @@
+{
+  "name": "display_window",
+  "version": "1.0.0",
+  "description": "A project for creating and displaying a window with Electron.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "maxchaoryt <maxchaoryt@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.10"
+  }
+}
